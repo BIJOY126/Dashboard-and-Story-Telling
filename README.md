@@ -4,3 +4,6 @@ Using Tableau dashboard segregrating customers on most sales and profit ratio. T
 Showing regional performance and ranking customers.
 Sales analysis based on categories and discount
 State  wise KPI analysis
+
+
+https://public.tableau.com/app/profile/bijoy.mohajan/viz/StoryTellingandDashboardAssignment-3/Story1
